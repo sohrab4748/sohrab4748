@@ -1,3 +1,52 @@
+## Hi, I'm Sohrab Kolsoumi
+
+I build scientific software and data tools for climate, drought, hydrology, and
+geospatial (LiDAR) data. I am the founder of [AgriMetSoft](https://agrimetsoft.com),
+where I design, build, document, and support desktop and web tools used by
+researchers, students, and consultants around the world. Based in Ames, Iowa.
+
+I work across the whole process: collecting and cleaning large environmental
+datasets, building the analysis, and making it usable through clear software,
+charts, and documentation.
+
+### What I work with
+
+- **Languages:** C#, Python, MATLAB, NCL
+- **Data:** NetCDF, HDF, GeoTIFF, MODIS, ERA5, NASA POWER; data cleaning,
+  validation, and analysis; SQLite and some MS SQL Server
+- **Geospatial:** GDAL, coordinate transformation, LiDAR (LAS/LAZ), remote sensing
+- **Methods:** drought and climate indices (SPI), statistical downscaling,
+  rainfall / IDF analysis, wavelet analysis
+- **Apps:** WPF desktop software, web front ends (HTML/JS), MCP servers
+
+### Featured projects
+
+- **[dmap-ai-mcp](https://github.com/sohrab4748/dmap-ai-mcp)** — an MCP server
+  that runs drought analysis (SPI, drought events, wavelet) for any location,
+  using ERA5 and NASA POWER. *(Python)*
+- **[dmap-ai-frontend](https://github.com/sohrab4748/dmap-ai-frontend)** — the
+  web app behind [droughtanalysis.com](https://droughtanalysis.com). *(HTML/JS)*
+- **[laz-to-text](https://github.com/sohrab4748/laz-to-text)** — read LiDAR
+  .laz/.las files and export the points to TXT or CSV. *(C#/WPF)*
+- **[laz-to-las](https://github.com/sohrab4748/laz-to-las)** — batch-convert
+  compressed LiDAR .laz files to uncompressed .las. *(C#/WPF)*
+- **[AgriMetSoft](https://github.com/sohrab4748/AgriMetSoft)** — my suite of
+  climate and agricultural data tools.
+
+### AgriMetSoft tools, by area
+
+- **Drought & climate:** DMAP, DMAP-AI, RDIT, MDM
+- **Statistical downscaling:** SD-GCM (CMIP5/CMIP6; Delta, Quantile Mapping, EDQM)
+- **NetCDF & climate data:** Open NC File, NetCDF Extractor, CORDEX Data Extractor
+- **Remote sensing:** MODIS Product Extractor
+- **Hydrology:** IDF Curve
+- **Data prep & evaluation:** Estimate Missing Climate Data, Model Analyzer, Excel add-in
+
+### Links
+
+- Website: [agrimetsoft.com](https://agrimetsoft.com)
+- Google Scholar: [profile](https://scholar.google.com/citations?user=aRK6hE4AAAAJ&hl=en)
+- 
 # Sohrab Kolsoumi
 
 Founder of **AgriMetSoft LLC**, developing software tools for climate science, drought monitoring, agrometeorology, hydrology, NetCDF data processing, remote sensing, statistical downscaling, and environmental data analysis.
